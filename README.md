@@ -7,3 +7,5 @@ The first prototype can be low power and using OLED, or ePaper but the connectio
 One idea is to use the Scuttle project board, but a hdmi connector needs to be added somehow then.
 
 And last idea is to use a already built system, which is cheaper and more logical.
+
+![Image](concept.avif)
